@@ -1,0 +1,2 @@
+2025-10-08 10:46:26,686:INFO: Process 6 is initializing the server
+2025-10-08 10:46:26,695:INFO: Process 6: Server is successfully initialized

@@ -1,0 +1,25 @@
+{
+   "data_config": {
+      "dataset_path": "./Data/CIFAR100",
+      "dataset_name": "CIFAR100",
+      "non_iid_per": 0
+   },
+   "fed_config": {
+      "algorithm": "FedAvg",
+      "fraction_clients": 0.1,
+      "num_clients": 100,
+      "num_rounds": 140,
+      "num_epochs": 3,
+      "batch_size": 64,
+      "global_stepsize": 1,
+      "local_stepsize": 0.001,
+      "criterion": "torch.nn.CrossEntropyLoss"
+   },
+   "model_config": {
+      "name": "CNN_Cifar"
+   },
+   "global_config": {
+      "seed": 42,
+      "device": "cpu"
+   }
+}

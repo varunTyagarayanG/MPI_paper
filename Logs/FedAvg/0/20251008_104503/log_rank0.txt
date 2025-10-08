@@ -1,0 +1,2 @@
+2025-10-08 10:45:03,212:INFO: Process 0 is initializing the server
+2025-10-08 10:45:03,226:INFO: Process 0: Server is successfully initialized

@@ -1,0 +1,5 @@
+2025-10-08 10:47:40,341:INFO: Process 1 is initializing the server
+2025-10-08 10:47:40,351:INFO: Process 1: Server is successfully initialized
+2025-10-08 10:47:47,752:INFO: Process 1: Clients are successfully initialized
+2025-10-08 10:47:47,753:INFO: 
+Process 1: Communication Round 1
